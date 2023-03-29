@@ -17,3 +17,5 @@ Welcome! ApothNexus is currently in development and plans to offer an all encomp
 ## Membership and Loyalty program integrations
 
 ## Multi-location organisation support
+
+## External Ordering/Delivery platform support and integration
